@@ -1,0 +1,7 @@
+name: Varo-Autoborder
+version: '${version}'
+main: net.bestlinuxgamers.varoAutoborder.Main
+api-version: 1.18
+authors: [ bestlinuxgamers ]
+
+depend: [ Varo ]
